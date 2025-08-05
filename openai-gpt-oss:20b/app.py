@@ -1,3 +1,4 @@
+
 import requests
 
 def ask_ollama(prompt):
